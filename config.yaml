@@ -1,0 +1,2 @@
+- name: DB Setup
+  uses: gullerya/db-setup-action@v1.1.0
